@@ -1,4 +1,4 @@
-<h1 align="center">Salut, moi c'est Mehdi 👋</h1>
+<h1 align="center">Mehdi-Salim ZAYANI 👋</h1>
 <p align="center">
   Ingénieur informatique | Dév Fullstack | Créateur d'apps 🛠️
 </p>
@@ -13,12 +13,6 @@
 
 ---
 
-### 📈 Stats GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medix91&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ### 🌐 Me trouver ailleurs
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-salim-zayani-906baa34a/)
