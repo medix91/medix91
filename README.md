@@ -1,23 +1,78 @@
-<h1 align="center">Mehdi-Salim ZAYANI 👋</h1>
+<h1 align="center">👋 Hey there, I'm Mehdi</h1>
+<h3 align="center">Ingénieur logiciel · Développeur Fullstack · Chef de projet IT 💡</h3>
+
 <p align="center">
-  Ingénieur informatique | Dév Fullstack | Créateur d'apps 🛠️
+  <a href="https://medix91.github.io/msz-pro/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mehdi-salim-zayani-906baa34a/">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 </p>
 
 ---
 
-### 🧰 Stack principale
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## 🌍 À propos de moi | About Me
+
+🇫🇷 Développeur passionné avec plus de 5 ans d'expérience en développement web/mobile et gestion de projets.  
+Je conçois des solutions robustes avec une forte orientation produit et utilisateur.
+
+🇬🇧 Passionate fullstack developer with 5+ years of experience in software engineering and project management.  
+I build smart, scalable and user-focused digital products.
 
 ---
 
+## 🧰 Technologies & outils
 
-### 🌐 Me trouver ailleurs
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-salim-zayani-906baa34a/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://medix91.github.io/msz-pro)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/ReactNative-%2320232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-✨ *Toujours prêt pour un nouveau projet ou une collab passionnante !*
+## 📈 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=medix91&show_icons=true&theme=transparent&hide_border=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=medix91&theme=transparent&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=medix91&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Projets en vedette
+
+| Projet | Description | Tech |
+|--------|-------------|------|
+| [**MSZ Pro**](https://medix91.github.io/msz-pro/) | Mon portfolio en ligne 👨‍💻 | React, GitHub Pages |
+| **App mobile  (WIP)** | Un projet innovant inspiré des apps comme Tinder, ParisBouge 🔥 | React Native, Firebase |
+| **Template React Auth** | Authentification complète (email + OAuth) | React, Firebase, GitHub Auth |
+
+---
+
+## 🧑‍💼 Me contacter
+
+- 📬 [LinkedIn](https://www.linkedin.com/in/mehdi-salim-zayani-906baa34a/)
+- 🌐 [medix91.github.io/msz-pro/](https://medix91.github.io/msz-pro/)
+- 💻 Toujours ouvert à des collaborations, freelances, ou juste échanger autour de la tech !
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&pause=1000&color=00BF63&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+!;Fullstack+dev+%7C+Team+Player+%7C+Coffee+Lover;Always+learning+something+new+...;Open+to+collabs+and+cool+ideas+🚀" alt="Typing SVG" />
+</p>
+
