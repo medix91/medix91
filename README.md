@@ -51,7 +51,5 @@ I build smart, scalable and user-focused digital products.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=22&pause=1000&color=00BF63&center=true&vCenter=true&width=435&lines=Let's+build+something+amazing+!;Fullstack+dev+%7C+Team+Player+%7C+Coffee+Lover;Always+learning+something+new+...;Open+to+collabs+and+cool+ideas+🚀" alt="Typing SVG" />
-</p>
+
 
