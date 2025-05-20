@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Mehdi</h1>
+<h1 align="center">👋 Hello, c'est Mehdi</h1>
 <h3 align="center">Ingénieur logiciel · Développeur Fullstack · Chef de projet IT 💡</h3>
 
 <p align="center">
