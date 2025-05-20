@@ -40,27 +40,6 @@ I build smart, scalable and user-focused digital products.
   <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-## 📈 Stats GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=medix91&show_icons=true&theme=transparent&hide_border=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=medix91&theme=transparent&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=medix91&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## 🚀 Projets en vedette
-
-| Projet | Description | Tech |
-|--------|-------------|------|
-| [**MSZ Pro**](https://medix91.github.io/msz-pro/) | Mon portfolio en ligne 👨‍💻 | React, GitHub Pages |
-| **App mobile  (WIP)** | Un projet innovant inspiré des apps comme Tinder, ParisBouge 🔥 | React Native, Firebase |
-| **Template React Auth** | Authentification complète (email + OAuth) | React, Firebase, GitHub Auth |
 
 ---
 
